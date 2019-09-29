@@ -1,0 +1,12 @@
+.base {
+  width: auto;
+  height: 40px;
+  cursor: pointer;
+  background: #2f3640;
+  color: #fff;
+  line-height: 40px;
+  padding: 0 20px;
+  border-radius: 3px;
+  cursor: pointer;
+  display: inline-block;
+}
